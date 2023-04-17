@@ -1,1 +1,5 @@
 export OPENAI_API_KEY="sk-xxxx"
+
+pip install wolframclient
+pip install PyPDF2
+pip install openai
